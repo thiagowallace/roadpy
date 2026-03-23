@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+__pycache__/
+*.pyc
+
+# Buildozer
+.buildozer/
+bin/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Python
+.env
