@@ -3,6 +3,10 @@
 
 App mobile Android desenvolvido em Python/Kivy para cálculo de elementos de curvas de concordância horizontal, seguindo o padrão DNIT (IPR-742).
 
+## 📱 Interface
+
+![App](assets/app.png)
+
 ---
 
 ## Funcionalidades (v1.0)
