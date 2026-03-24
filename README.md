@@ -19,6 +19,13 @@ O cálculo manual de curvas horizontais é suscetível a erros e exige múltipla
 
 O RoadPy automatiza esse processo, garantindo precisão e agilidade no projeto geométrico de rodovias.
 
+## ⚙️ Diferenciais
+
+- Cálculo baseado no DNIT (IPR-742)
+- Conversão automática de graus (DMS ↔ decimal)
+- Geração de tabela de locação por deflexões
+- Interface mobile com Kivy
+
 ## 📊 Exemplo de uso
 
 Entrada:
@@ -111,6 +118,13 @@ roadpy/
 ├── buildozer.spec   # Configuração de build Android
 └── README.md        # Este arquivo
 ```
+
+## 🚀 Próximas versões
+
+- Geração de desenho da curva
+- Exportação para CSV/PDF
+- Integração com GIS (QGIS)
+- Locação por coordenadas
 
 ---
 
