@@ -5,7 +5,7 @@ App mobile Android desenvolvido em Python/Kivy para cálculo de elementos de cur
 
 ## 📱 Interface
 
-![App](assets/app.png)
+![App](assets/app.png) 
 
 ---
 
