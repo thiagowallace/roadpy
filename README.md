@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Kivy](https://img.shields.io/badge/Kivy-2.3-green)
+![Status](https://img.shields.io/badge/status-active-success)
+
+
 # RoadPy 🛣️
 **Calculadora de Curvas Horizontais – UFRGS / IGEO / NGA**
 
@@ -8,7 +13,25 @@ App mobile Android desenvolvido em Python/Kivy para cálculo de elementos de cur
 ![App](assets/app.png) 
 
 ---
+## 🎯 Problema
 
+O cálculo manual de curvas horizontais é suscetível a erros e exige múltiplas etapas repetitivas.
+
+O RoadPy automatiza esse processo, garantindo precisão e agilidade no projeto geométrico de rodovias.
+
+## 📊 Exemplo de uso
+
+Entrada:
+- Raio: 295 m
+- PI: 100 + 7.40
+- Ângulo: 30°20'00"
+
+Saída:
+- T = 79.96 m
+- D = 156.17 m
+- PC = E96+7.44
+- PT = E104+3.62
+  
 ## Funcionalidades (v1.0)
 
 | Elemento | Descrição |
